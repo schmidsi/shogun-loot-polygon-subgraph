@@ -1,6 +1,6 @@
 {
   "output": "",
-  "chain": "mainnet",
+  "chain": "matic",
   "datasources": [
     {
       "address": "0x3dcBf7ca3C25Df5803284C9a10fcF931E9eBA827",

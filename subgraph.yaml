@@ -4,7 +4,7 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: erc1155
-    network: mainnet
+    network: matic
     source:
       address: "0x3dcBf7ca3C25Df5803284C9a10fcF931E9eBA827"
       abi: IERC1155

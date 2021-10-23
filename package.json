@@ -1,7 +1,8 @@
 {
   "scripts": {
     "build": "graph build",
-    "codegen": "graph codegen"
+    "codegen": "graph codegen",
+    "deploy": "graph deploy --product hosted-service schmidsi/shogun-loot-polygon"
   },
   "dependencies": {
     "@graphprotocol/graph-cli": "^0.22.4",
